@@ -1,0 +1,183 @@
+* {
+	background-color: #FFF6E5;
+	text-decoration: none;
+
+}
+/* nav bar and about */
+nav {
+	font-family: 'Dancing Script', cursive;
+}
+.fixed {
+	position: fixed;
+	top: 4px;
+	right: 5px;
+	width: 190px;
+}
+
+#about {
+	position: fixed;
+	bottom: 4px;
+	left: 5px;
+font-family: 'Dancing Script', cursive;
+}
+/* gone */
+
+.knight {
+	width: 100%;
+	height: 500px;
+	background-image: url(http://data.whicdn.com/images/65340249/large.gif);
+}
+.shake {
+	width: 100%;
+	height: 500px;
+	background-image: url(https://66.media.tumblr.com/c00173ef82c7b28c515452b64d91846b/tumblr_mfa0vtGo0h1qcgzsvo1_250.gif);
+}
+.star {
+	width: 100%;
+	height: 500px;
+	background-image: url(https://66.media.tumblr.com/f4d3a82f095b2ab19773dae586a8b30b/tumblr_n82pw1QPey1qzerjgo1_500.gif);
+}
+.bright {
+	width: 100%;
+	height: 500px;
+	background-image: url(https://67.media.tumblr.com/9a1ca3d63c290bce487743a1225eff4f/tumblr_o2965pLtAM1rbud4zo1_500.gif);
+}
+.dance {
+	width: 100%;
+	height: 500px;
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/c5/90/2c/c5902c1f2a4034d23bcb12804aa4727f.gif);
+}
+
+#poemgone {
+	margin-top: 50%;
+	margin-left: 50px;
+	margin-right: 60%;
+	text-align: left;
+	position: absolute;
+	background: transparent;
+}
+#poemgone > div {
+	font-family: 'Cinzel', serif;
+}
+
+
+/* far */
+#poemfar {
+	margin-top: 350px;
+	margin-left: 70%;
+	text-align: center;
+	position: fixed;
+	background: transparent;
+	font-family: 'Comfortaa', cursive;
+}
+
+.artichoke {
+	width: 100%;
+	height: 500px;
+	background-image: url(http://afriendinparis.com/wp-content/uploads/2015/08/l-Am%C3%A9lie-ZWyIbqt.gif);
+}
+.skell {
+	width: 100%;
+	height: 600px;
+	background-image: url(http://cineplex.media.baselineresearch.com/images/256740/256740_full.jpg);
+}
+.lilo {
+	width: 100%;
+	height: 400px;
+	background-image: url(http://images6.fanpop.com/image/photos/39400000/Nani-and-Lilo-lilo-and-stitch-39407284-500-252.gif);
+}
+.stitch {
+	width: 100%;
+	height: 500px;
+	background-image: url(https://66.media.tumblr.com/d2ad0c36b99fd766d9bc20e17152887f/tumblr_n86f4gt4ec1rubavvo1_400.gif);
+}
+.sponge {
+	width: 100%;
+	height: 200px;
+	background-image: url(https://media.giphy.com/media/bkcbX8SqTCXHG/giphy.gif);
+}
+
+
+
+
+/* away */
+.city {
+	width: 100%;
+	height: 600px;
+	background-image: url(http://static.tumblr.com/ba16aa95fe354691f2e78321a7b6a503/goyfc8o/OYMo7k3p6/tumblr_static_bpix99h9tmgwsc4wwk8gkwwwg.png);
+}
+.drive {
+	width: 100%;
+	height: 400px;
+	background-image: url(https://66.media.tumblr.com/21f8fa72ee2aaa260af35ab3cb736da1/tumblr_nj5i4s6c9r1smlpj1o1_500.gif);
+}
+.kanye {
+	width: 100%;
+	height: 400px;
+	background-image: url(http://imgur.com/SLlax.gif);
+}
+.hands {
+	width: 100%;
+	height: 500px;
+	background-image: url(https://media.giphy.com/media/PR8VN28775XvG/giphy.gif);
+}
+.together {
+	width: 100%;
+	height: 300px;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCzbjuNfys2_JiqYjF5ASx9I3bqylcE7WWaLH9WX5LviSRmzt5);
+}
+
+#poemaway {
+	margin-top: 900px;
+	margin-left: 15%;
+	margin-right: 20%;
+	text-align: center;
+	position: absolute;
+	background: transparent;
+	font-family: 'Rubik', sans-serif;
+}
+
+
+/* here */
+#poemhere {
+	margin-top: 100px;
+	margin-left: 15%;
+	margin-right: 20%;
+	text-align: right;
+	position: absolute;
+	background: transparent;
+}
+.one, .two, .three {
+	font-family: 'Dancing Script', cursive;
+	background: linear-gradient(to top, #E1B870, #E18384, #E1A4CA);
+	font-size: 40px;
+	color: transparent;
+	-webkit-background-clip: text;
+}
+
+/* about */
+#inabout > i {
+	font-family: 'Vollkorn', serif;
+	font-weight: 100;
+	position: center;
+	background: transparent;
+	color: white;
+}
+#inabout {
+	margin-top: 300px;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-family: 'Vollkorn', serif;
+	font-weight: 100;
+	position: absolute;
+	background: transparent;
+	color: white;
+}
+
+.wave {
+	width: 100%;
+	height: 800px;
+	background: url(https://s-media-cache-ak0.pinimg.com/originals/1c/1d/80/1c1d80faee1bd3bc213c240361538ed3.gif);
+}
+
+
